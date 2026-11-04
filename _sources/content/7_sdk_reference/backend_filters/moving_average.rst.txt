@@ -1,8 +1,0 @@
-Moving Average
-==============
-
-.. autoclass:: gpype.backend.filters.moving_average.MovingAverage
-   :members:
-   :undoc-members:
-   :special-members: __init__
-   :show-inheritance:

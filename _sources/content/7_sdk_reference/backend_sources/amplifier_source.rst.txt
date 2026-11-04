@@ -1,8 +1,0 @@
-Amplifier Source
-================
-
-.. autoclass:: gpype.backend.sources.base.amplifier_source.AmplifierSource
-   :members:
-   :undoc-members:
-   :special-members: __init__
-   :show-inheritance:

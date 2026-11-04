@@ -1,8 +1,0 @@
-UDP Sender
-==========
-
-.. autoclass:: gpype.backend.sinks.udp_sender.UDPSender
-   :members:
-   :undoc-members:
-   :special-members: __init__
-   :show-inheritance:

@@ -1,8 +1,0 @@
-Bandpass
-========
-
-.. autoclass:: gpype.backend.filters.bandpass.Bandpass
-   :members:
-   :undoc-members:
-   :special-members: __init__
-   :show-inheritance:

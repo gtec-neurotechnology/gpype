@@ -1,4 +1,0 @@
-Node Design Pattern
--------------------
-
-tbd

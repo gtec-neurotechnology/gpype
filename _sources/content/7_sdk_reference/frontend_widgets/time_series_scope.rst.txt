@@ -1,8 +1,0 @@
-Time Series Scope
-=================
-
-.. autoclass:: gpype.frontend.widgets.time_series_scope.TimeSeriesScope
-   :members:
-   :undoc-members:
-   :special-members: __init__
-   :show-inheritance:

@@ -1,8 +1,0 @@
-MainApp
--------
-
-.. autoclass:: gpype.frontend.main_app.MainApp
-   :members:
-   :undoc-members:
-   :special-members: __init__
-   :show-inheritance:
